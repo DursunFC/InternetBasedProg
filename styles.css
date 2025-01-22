@@ -1,0 +1,27 @@
+h3 {
+  color: red;
+}
+p,
+li {
+  color: green;
+}
+.special{color: orange;
+font-weight: bold;}
+
+li.special,
+span.special{
+  color: rgb(255, 0, 157);
+  font-weight: bold;
+}
+
+ol{
+  color:greenyellow;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+header{
+  color: gold;
+  
+}
